@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://dirtyhenry.micro.blog/2024/11/08/youtube-tends-to.html",
+				
+				"content_html": "<p>YouTube tends to transcribe &ldquo;ChatGPT&rdquo; as &ldquo;Chachi BT&rdquo;. Funny.</p>\n<p>When you search for &ldquo;Chachi BT&rdquo; on Google, there are so many results and pretty much all of them are indeed about ChatGPT. Meaning that no human edited the posts before publication to fix this type even in titles, meta tags, etc. Scary.</p>\n<p>🍿× 💻</p>\n",
+				"content_text": "YouTube tends to transcribe \"ChatGPT\" as \"Chachi BT\". Funny.\n\nWhen you search for \"Chachi BT\" on Google, there are so many results and pretty much all of them are indeed about ChatGPT. Meaning that no human edited the posts before publication to fix this type even in titles, meta tags, etc. Scary.\n\n🍿× 💻\n",
+				"date_published": "2024-11-08T09:17:22+01:00",
+				"url": "https://micro.mickf.net/2024/11/08/youtube-tends-to.html",
+				"tags": ["Tech","Pop Culture"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2024/11/07/notes-for-later.html",
+				
+				"content_html": "<p>Notes for later.</p>\n<p>The <a href=\"https://stateofreact.com/\">State of React</a> 2024 survey lists some tools for forms and data visualisation. Since some were unknown to me, I&rsquo;ll list them all here.</p>\n<ul>\n<li>Forms:\n<ul>\n<li>React Hook Form</li>\n<li>react-jsonschema-form</li>\n<li>Formik</li>\n<li>@formily/core</li>\n<li>React Final Form</li>\n<li>Mantine Forms</li>\n<li>Redux Form</li>\n</ul>\n</li>\n<li>Data Visualisation:\n<ul>\n<li>D3</li>\n<li>Nivo</li>\n<li>React-Vis</li>\n<li>Recharts</li>\n<li>Tremor</li>\n<li>Victory</li>\n<li>Visx</li>\n<li>Chart.js</li>\n<li>Highcharts</li>\n</ul>\n</li>\n</ul>\n<p>💻</p>\n",
+				"content_text": "Notes for later.\n\nThe [State of React](https://stateofreact.com/) 2024 survey lists some tools for forms and data visualisation. Since some were unknown to me, I'll list them all here.\n\n* Forms:\n    * React Hook Form\n    * react-jsonschema-form\n    * Formik\n    * @formily/core\n    * React Final Form\n    * Mantine Forms\n    * Redux Form\n* Data Visualisation:\n    * D3\n    * Nivo\n    * React-Vis\n    * Recharts\n    * Tremor\n    * Victory\n    * Visx\n    * Chart.js\n    * Highcharts\n\n💻\n",
+				"date_published": "2024-11-07T11:02:43+01:00",
+				"url": "https://micro.mickf.net/2024/11/07/notes-for-later.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2024/11/06/from-the-movie.html",
+				
+				"content_html": "<p>From the movie <a href=\"https://www.themoviedb.org/movie/1182047-the-apprentice\"><em>The Apprentice</em></a>, Cohn’s 3 rules of <em>winning</em> are:</p>\n<blockquote>\n<ol>\n<li>Attack, attack, attack</li>\n<li>Admit nothing, deny everything</li>\n<li>Claim victory, never admit defeat</li>\n</ol>\n</blockquote>\n<p>This serves as a perfect test of assholery. 🧘🏛️</p>\n",
+				"content_text": "From the movie [_The Apprentice_](https://www.themoviedb.org/movie/1182047-the-apprentice), Cohn’s 3 rules of _winning_ are:\n\n> 1. Attack, attack, attack\n> 2. Admit nothing, deny everything\n> 3. Claim victory, never admit defeat\n\nThis serves as a perfect test of assholery. 🧘🏛️\n",
+				"date_published": "2024-11-06T10:34:08+01:00",
+				"url": "https://micro.mickf.net/2024/11/06/from-the-movie.html",
+				"tags": ["Politics"]
+			},
+			{
 				"id": "http://dirtyhenry.micro.blog/2024/11/06/il-y-a.html",
 				
 				"content_html": "<p>Il y a 2 ans, peu avant la Coupe du Monde au Qatar, <a href=\"https://www.deadrooster.org/boycott-coupe-du-monde-2022-qatar/\">j’écrivais</a> :</p>\n<blockquote>\n<p>En 2026, la Coupe du Monde aura lieu aux États-Unis, pas exemplaire en termes d&rsquo;émissions de CO₂ totales et par habitant, qui pourrait alors avoir à sa tête un type comme Donald Trump ou Ron DeSantis. Au final, guetter la voie vers un avenir désirable se joue tous les jours, pas tous les 4 ans.</p>\n</blockquote>\n<p>Bon. On y est. Ça ne fait pas plaisir, mais la conclusion tient encore la route. 💪</p>\n<p>🏛️</p>\n",
