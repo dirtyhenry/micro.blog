@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://dirtyhenry.micro.blog/2024/12/08/arthur-christmas.html",
+				"title": "Arthur Christmas, 2011 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2024/ntxzltm4tfdmwg2i7kxv9kvayqf-0-600-0-900-crop.jpg.jpg\"/></p> <p>The idea of treating Christmas as a challenging logistical operation is quite amusing. The subsequent adventures, although a bit lengthy, are heartwarming and funny. I recommend it for young children. 🍿</p>\n",
+				"date_published": "2024-12-08T23:25:22+01:00",
+				"url": "https://micro.mickf.net/2024/12/08/arthur-christmas.html",
+				"tags": ["Pop Culture"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2024/12/02/spotify-drives-me.html",
+				
+				"content_html": "<p>Spotify drives me crazy with its song shuffle functionality. For example, the Apple TV app does not include a shuffle option. Instead, it applies the shuffle setting from other versions of the app you may be using. This is quite maddening.</p>\n<p>My ideal shuffle behavior would be the following:</p>\n<ol>\n<li>Never defaulting to shuffle tracks for albums. I prefer to listen to complete albums in their intended order. Who doesn&rsquo;t?</li>\n<li>Implementing a per-playlist shuffle setting. Some of my shorter playlists have a specific order, while I only use shuffle for the longer ones.</li>\n</ol>\n<p>🎵 × 💻</p>\n",
+				"content_text": "Spotify drives me crazy with its song shuffle functionality. For example, the Apple TV app does not include a shuffle option. Instead, it applies the shuffle setting from other versions of the app you may be using. This is quite maddening.\n\nMy ideal shuffle behavior would be the following:\n\n1. Never defaulting to shuffle tracks for albums. I prefer to listen to complete albums in their intended order. Who doesn't?\n2. Implementing a per-playlist shuffle setting. Some of my shorter playlists have a specific order, while I only use shuffle for the longer ones.\n\n🎵 × 💻\n",
+				"date_published": "2024-12-02T13:35:06+01:00",
+				"url": "https://micro.mickf.net/2024/12/02/spotify-drives-me.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2024/12/02/here-is-a.html",
+				
+				"content_html": "<p>Here is <a href=\"https://open.spotify.com/playlist/3Pz3FbDnSBenIQufR5idjO\">a one-hour playlist of my favorite current French songs</a>. I hope you enjoy it. 🎵</p>\n",
+				"content_text": "Here is [a one-hour playlist of my favorite current French songs](https://open.spotify.com/playlist/3Pz3FbDnSBenIQufR5idjO). I hope you enjoy it. 🎵 \n",
+				"date_published": "2024-12-02T13:19:54+01:00",
+				"url": "https://micro.mickf.net/2024/12/02/here-is-a.html"
+			},
+			{
 				"id": "http://dirtyhenry.micro.blog/2024/12/02/elemental.html",
 				"title": "Elemental, 2023 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -35,7 +61,7 @@
 				"id": "http://dirtyhenry.micro.blog/2024/11/20/i-lost-my.html",
 				
 				"content_html": "<p>I lost my Klean Kanteen water bottle, which I had since October 2014. Thanks for the ride, bottle!</p>\n<p>It had a few dents and needed some attention to stay upright, but we had a good run together.</p>\n<p>I&rsquo;ve just ordered a replacement, and it will be a Klean Kanteen again. I hope it will accompany me for another 10 years. See you in 2034 for an update.</p>\n<p>🌱</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I lost my Klean Kanteen water bottle, which I had since October 2014. Thanks for the ride, bottle!\n\nIt had a few dents and needed some attention to stay upright, but we had a good run together. \n\nI've just ordered a replacement, and it will be a Klean Kanteen again. I hope it will accompany me for another 10 years. See you in 2034 for an update.\n\n🌱\n\n<img src=\"uploads/2024/cf6989fd4c.png\" width=\"600\" height=\"315\" alt=\"\">\n",
+				"content_text": "I lost my Klean Kanteen water bottle, which I had since October 2014. Thanks for the ride, bottle!\n\nIt had a few dents and needed some attention to stay upright, but we had a good run together. \n\nI've just ordered a replacement, and it will be a Klean Kanteen again. I hope it will accompany me for another 10 years. See you in 2034 for an update.\n\n🌱\n\n<img src=\"https://cdn.uploads.micro.blog/98522/2024/cf6989fd4c.png\" width=\"600\" height=\"315\" alt=\"\">\n",
 				"date_published": "2024-11-20T18:07:31+01:00",
 				"url": "https://micro.mickf.net/2024/11/20/i-lost-my.html"
 			},
@@ -67,7 +93,7 @@
 				"id": "http://dirtyhenry.micro.blog/2024/11/15/ive-found-my.html",
 				
 				"content_html": "<p>I&rsquo;ve found my go-to coffee shop for a great mocha in Rennes.</p>\n<p>It&rsquo;s my favorite since the one from the now-closed <a href=\"https://www.instagram.com/cafe_craft/\">Café Craft</a>, which served as my part-time office in the mid-2010s.</p>\n<p>☕️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I've found my go-to coffee shop for a great mocha in Rennes. \n\nIt's my favorite since the one from the now-closed [Café Craft](https://www.instagram.com/cafe_craft/), which served as my part-time office in the mid-2010s.\n\n☕️\n\n<img src=\"uploads/2024/fa5a4b3d945d40cc9226496dc9012a09.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I've found my go-to coffee shop for a great mocha in Rennes. \n\nIt's my favorite since the one from the now-closed [Café Craft](https://www.instagram.com/cafe_craft/), which served as my part-time office in the mid-2010s.\n\n☕️\n\n<img src=\"https://cdn.uploads.micro.blog/98522/2024/fa5a4b3d945d40cc9226496dc9012a09.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-15T17:57:41+01:00",
 				"url": "https://micro.mickf.net/2024/11/15/ive-found-my.html"
 			},
@@ -119,7 +145,7 @@
 				"id": "http://dirtyhenry.micro.blog/2024/10/26/je-fais-ce.html",
 				
 				"content_html": "<p>Je fais ce truc de Mary Kondo où tu dois mettre tous tes bouquins par terre pour trier/jeter.</p>\n<p>Si tu me demandes si je suis une personne qui a la lecture au corps, je dirais probablement non, intimidé par rapport à ceux qui ont déjà lu Émile Zola ou Victor Hugo, ce qui n&rsquo;est pas mon cas.</p>\n<p>Mais en fait, peut-être bien que j&rsquo;en suis. Astérix, Gotlib, France Football, Mickey Parade, les Inrocks, Rock&amp;Folk et quelques auteurs — quand même — m&rsquo;ont accompagné jusqu&rsquo;aux 43 piges. Est-ce que ça compte ? Est-ce que ça se transmet ? Est-ce que ça se jette ? Je suis face à un gouffre existentiel. Vous en pensez quoi vous ?</p>\n<p>🧘</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Je fais ce truc de Mary Kondo où tu dois mettre tous tes bouquins par terre pour trier/jeter. \n\nSi tu me demandes si je suis une personne qui a la lecture au corps, je dirais probablement non, intimidé par rapport à ceux qui ont déjà lu Émile Zola ou Victor Hugo, ce qui n'est pas mon cas. \n\nMais en fait, peut-être bien que j'en suis. Astérix, Gotlib, France Football, Mickey Parade, les Inrocks, Rock&Folk et quelques auteurs — quand même — m'ont accompagné jusqu'aux 43 piges. Est-ce que ça compte ? Est-ce que ça se transmet ? Est-ce que ça se jette ? Je suis face à un gouffre existentiel. Vous en pensez quoi vous ? \n\n🧘\n\n<img src=\"uploads/2024/bf630b6091104c90af71a56f4b67919a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/4db37014287943e3b6f35439edad8a3c.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/7a38fe492ff341eaa1bcb4800fd2cb2b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2024/ed55fc5a349b40d4a36d7c1209bbaef4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Je fais ce truc de Mary Kondo où tu dois mettre tous tes bouquins par terre pour trier/jeter. \n\nSi tu me demandes si je suis une personne qui a la lecture au corps, je dirais probablement non, intimidé par rapport à ceux qui ont déjà lu Émile Zola ou Victor Hugo, ce qui n'est pas mon cas. \n\nMais en fait, peut-être bien que j'en suis. Astérix, Gotlib, France Football, Mickey Parade, les Inrocks, Rock&Folk et quelques auteurs — quand même — m'ont accompagné jusqu'aux 43 piges. Est-ce que ça compte ? Est-ce que ça se transmet ? Est-ce que ça se jette ? Je suis face à un gouffre existentiel. Vous en pensez quoi vous ? \n\n🧘\n\n<img src=\"https://cdn.uploads.micro.blog/98522/2024/bf630b6091104c90af71a56f4b67919a.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/98522/2024/4db37014287943e3b6f35439edad8a3c.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/98522/2024/7a38fe492ff341eaa1bcb4800fd2cb2b.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/98522/2024/ed55fc5a349b40d4a36d7c1209bbaef4.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-26T14:37:20+01:00",
 				"url": "https://micro.mickf.net/2024/10/26/je-fais-ce.html"
 			},
@@ -127,7 +153,7 @@
 				"id": "http://dirtyhenry.micro.blog/2024/10/24/bonne-bire-ses.html",
 				
 				"content_html": "<p>Bonne bière. Ses notes fruitées s’accordent bien avec des chips et un match héroïque du Stade Brestois contre le Bayer Leverkusen 🍻 × ⚽️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bonne bière. Ses notes fruitées s’accordent bien avec des chips et un match héroïque du Stade Brestois contre le Bayer Leverkusen 🍻 × ⚽️\n\n<img src=\"uploads/2024/7afac0b9f33f42d691dae89bd4d797f5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Bonne bière. Ses notes fruitées s’accordent bien avec des chips et un match héroïque du Stade Brestois contre le Bayer Leverkusen 🍻 × ⚽️\n\n<img src=\"https://cdn.uploads.micro.blog/98522/2024/7afac0b9f33f42d691dae89bd4d797f5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-24T08:29:33+01:00",
 				"url": "https://micro.mickf.net/2024/10/24/bonne-bire-ses.html",
 				"tags": ["Football"]
@@ -136,7 +162,7 @@
 				"id": "http://dirtyhenry.micro.blog/2024/10/22/walking-to-the.html",
 				
 				"content_html": "<p>Walking to the bakery.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Walking to the bakery.\n\n<img src=\"uploads/2024/ced072a2ca904b148cf138c7ac1189fd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Walking to the bakery.\n\n<img src=\"https://cdn.uploads.micro.blog/98522/2024/ced072a2ca904b148cf138c7ac1189fd.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-10-22T08:05:14+01:00",
 				"url": "https://micro.mickf.net/2024/10/22/walking-to-the.html"
 			},
@@ -186,7 +212,7 @@
 				"id": "http://dirtyhenry.micro.blog/2024/10/19/i-started-drawing.html",
 				
 				"content_html": "<p>I started drawing things from a drawing book with my kids. It’s really fun. And i still have it. Sort off. 😂</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I started drawing things from a drawing book with my kids. It’s really fun. And i still have it. Sort off. 😂\n\n<img src=\"uploads/2024/befc09769b984f6ab8f0beeb551ff057.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "I started drawing things from a drawing book with my kids. It’s really fun. And i still have it. Sort off. 😂\n\n<img src=\"https://cdn.uploads.micro.blog/98522/2024/befc09769b984f6ab8f0beeb551ff057.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-10-19T19:58:07+01:00",
 				"url": "https://micro.mickf.net/2024/10/19/i-started-drawing.html"
 			},
@@ -229,7 +255,7 @@
 				"id": "http://dirtyhenry.micro.blog/2024/09/30/a-simple-workflow.html",
 				"title": "A simple workflow for translation keys typed with TypeScript",
 				"content_html": "<p>Since my web projects use typed translation keys, my work in progress would typically add unwanted TypeScript errors every time I added a new translation key, and that would annoy me a lot.</p>\n<p>So I wrote a little script that watches a temporary JSON translation file (as <a href=\"https://docs.lokalise.com/en/articles/1400771-json-flat-json\">used by Lokalise</a>) and merges it into all the translation files of the languages that are supported every time it changes.</p>\n<p>This way, once I am done with a feature, I can upload the new keys all at once in Lokalise&rsquo;s upload tool. 💻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Since my web projects use typed translation keys, my work in progress would typically add unwanted TypeScript errors every time I added a new translation key, and that would annoy me a lot. \n\nSo I wrote a little script that watches a temporary JSON translation file (as [used by Lokalise](https://docs.lokalise.com/en/articles/1400771-json-flat-json)) and merges it into all the translation files of the languages that are supported every time it changes. \n\nThis way, once I am done with a feature, I can upload the new keys all at once in Lokalise's upload tool. 💻\n\n<img src=\"uploads/2024/68b12ce099.png\" width=\"600\" height=\"402\" alt=\"\">\n",
+				"content_text": "Since my web projects use typed translation keys, my work in progress would typically add unwanted TypeScript errors every time I added a new translation key, and that would annoy me a lot. \n\nSo I wrote a little script that watches a temporary JSON translation file (as [used by Lokalise](https://docs.lokalise.com/en/articles/1400771-json-flat-json)) and merges it into all the translation files of the languages that are supported every time it changes. \n\nThis way, once I am done with a feature, I can upload the new keys all at once in Lokalise's upload tool. 💻\n\n<img src=\"https://cdn.uploads.micro.blog/98522/2024/68b12ce099.png\" width=\"600\" height=\"402\" alt=\"\">\n",
 				"date_published": "2024-09-30T16:45:04+01:00",
 				"url": "https://micro.mickf.net/2024/09/30/a-simple-workflow.html",
 				"tags": ["Tech"]
@@ -384,7 +410,7 @@
 				"id": "http://dirtyhenry.micro.blog/2024/08/25/trio-is-a.html",
 				
 				"content_html": "<p>Trio is a real fun little game. 🎮</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Trio is a real fun little game. 🎮\n\n<img src=\"uploads/2024/840be3f6188e43d2bd38f34e9200d2d9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Trio is a real fun little game. 🎮\n\n<img src=\"https://dirtyhenry.micro.blog/uploads/2024/840be3f6188e43d2bd38f34e9200d2d9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-25T14:36:49+01:00",
 				"url": "https://micro.mickf.net/2024/08/25/trio-is-a.html"
 			},
@@ -467,7 +493,7 @@
 				"id": "http://dirtyhenry.micro.blog/2024/07/22/browsing-maripedia-that.html",
 				
 				"content_html": "<p>Browsing <a href=\"https://www.marimekko.com/eu_en/maripedia/patterns\">Maripedia</a>, that I stumbled upon <a href=\"https://kottke.org/24/07/an-online-database-of-marimekko-patterns\">via kottke.org</a>, I created this colour palette that could be really cool for the next redesign of <a href=\"https://statium.app/\">Statium</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Browsing [Maripedia](https://www.marimekko.com/eu_en/maripedia/patterns), that I stumbled upon [via kottke.org](https://kottke.org/24/07/an-online-database-of-marimekko-patterns), I created this colour palette that could be really cool for the next redesign of [Statium](https://statium.app/).\n\n<img src=\"uploads/2024/af2005281b.png\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Browsing [Maripedia](https://www.marimekko.com/eu_en/maripedia/patterns), that I stumbled upon [via kottke.org](https://kottke.org/24/07/an-online-database-of-marimekko-patterns), I created this colour palette that could be really cool for the next redesign of [Statium](https://statium.app/).\n\n<img src=\"https://dirtyhenry.micro.blog/uploads/2024/af2005281b.png\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-07-22T09:29:26+01:00",
 				"url": "https://micro.mickf.net/2024/07/22/browsing-maripedia-that.html"
 			},
@@ -484,7 +510,7 @@
 				"id": "http://dirtyhenry.micro.blog/2024/07/21/a-beer-i.html",
 				
 				"content_html": "<p>A beer I got for finishing la <a href=\"https://www.cap-iroise.fr/\">Cap&rsquo;Iroise</a> back in May. Seaweed flavored. I really disliked it. And now I feel somewhat annoyed by the habit of forcing regional cultural heritage everywhere for no good reason. 🍻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A beer I got for finishing la [Cap'Iroise](https://www.cap-iroise.fr/) back in May. Seaweed flavored. I really disliked it. And now I feel somewhat annoyed by the habit of forcing regional cultural heritage everywhere for no good reason. 🍻\n\n<img src=\"uploads/2024/08d23f378f59496c954b7d55517eef14.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "A beer I got for finishing la [Cap'Iroise](https://www.cap-iroise.fr/) back in May. Seaweed flavored. I really disliked it. And now I feel somewhat annoyed by the habit of forcing regional cultural heritage everywhere for no good reason. 🍻\n\n<img src=\"https://dirtyhenry.micro.blog/uploads/2024/08d23f378f59496c954b7d55517eef14.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-21T09:54:53+01:00",
 				"url": "https://micro.mickf.net/2024/07/21/a-beer-i.html"
 			},
@@ -551,7 +577,7 @@
 				"id": "http://dirtyhenry.micro.blog/2024/06/18/excellent-beer-thick.html",
 				
 				"content_html": "<p>Excellent beer. Thick, spicy and strong. Loved it. 🍻</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Excellent beer. Thick, spicy and strong. Loved it. 🍻\n\n<img src=\"uploads/2024/5a995aae4df54b389a87f7078d47f710.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Excellent beer. Thick, spicy and strong. Loved it. 🍻\n\n<img src=\"https://dirtyhenry.micro.blog/uploads/2024/5a995aae4df54b389a87f7078d47f710.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-06-18T09:46:46+01:00",
 				"url": "https://micro.mickf.net/2024/06/18/excellent-beer-thick.html"
 			},
@@ -675,7 +701,7 @@
 				"id": "http://dirtyhenry.micro.blog/2024/05/28/i-thought-ted.html",
 				
 				"content_html": "<p>I thought Ted Lasso&rsquo;s look was influenced by Ned Flanders. Since this morning, I now think it is influenced by David Seaman. ⚽️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I thought Ted Lasso's look was influenced by Ned Flanders. Since this morning, I now think it is influenced by David Seaman. ⚽️\n\n<img src=\"uploads/2024/image.jpg\" width=\"403\" height=\"600\" alt=\"\">\n",
+				"content_text": "I thought Ted Lasso's look was influenced by Ned Flanders. Since this morning, I now think it is influenced by David Seaman. ⚽️\n\n<img src=\"https://dirtyhenry.micro.blog/uploads/2024/image.jpg\" width=\"403\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-05-28T10:51:26+01:00",
 				"url": "https://micro.mickf.net/2024/05/28/i-thought-ted.html",
 				"tags": ["Football"]
@@ -802,7 +828,7 @@
 				"id": "http://dirtyhenry.micro.blog/2024/04/27/njny-gotham-fc.html",
 				
 				"content_html": "<p>NJ/NY Gotham FC is such a cool team name, with such a cool logo. ⚽️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "NJ/NY Gotham FC is such a cool team name, with such a cool logo. ⚽️\n\n<img src=\"uploads/2024/image.png\" width=\"413\" height=\"600\" alt=\"\">\n",
+				"content_text": "NJ/NY Gotham FC is such a cool team name, with such a cool logo. ⚽️\n\n<img src=\"https://dirtyhenry.micro.blog/uploads/2024/image.png\" width=\"413\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-04-27T17:53:54+01:00",
 				"url": "https://micro.mickf.net/2024/04/27/njny-gotham-fc.html",
 				"tags": ["Football"]
@@ -1523,7 +1549,7 @@
 				"id": "http://dirtyhenry.micro.blog/2023/12/26/good-old-fashioned.html",
 				
 				"content_html": "<p>Good old fashioned. 🥃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Good old fashioned. 🥃\n\n<img src=\"uploads/2023/d5de70b7ad55482287d66531fa0c446d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Good old fashioned. 🥃\n\n<img src=\"https://dirtyhenry.micro.blog/uploads/2023/d5de70b7ad55482287d66531fa0c446d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-26T21:41:46+01:00",
 				"url": "https://micro.mickf.net/2023/12/26/good-old-fashioned.html"
 			},
@@ -1558,7 +1584,7 @@
 				"id": "http://dirtyhenry.micro.blog/2023/12/22/il-parat-quelle.html",
 				
 				"content_html": "<p>Il paraît qu’elle n’est pas belle mais je l’aime bien cette ville. Salut Brest. Content de venir fêter Noël avec toi. 🚌🎄🎅</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Il paraît qu’elle n’est pas belle mais je l’aime bien cette ville. Salut Brest. Content de venir fêter Noël avec toi. 🚌🎄🎅\n\n<img src=\"uploads/2023/62d71a286c37456a9c0ff2f1a9868c3c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Il paraît qu’elle n’est pas belle mais je l’aime bien cette ville. Salut Brest. Content de venir fêter Noël avec toi. 🚌🎄🎅\n\n<img src=\"https://dirtyhenry.micro.blog/uploads/2023/62d71a286c37456a9c0ff2f1a9868c3c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-12-22T12:13:05+01:00",
 				"url": "https://micro.mickf.net/2023/12/22/il-parat-quelle.html"
 			},
