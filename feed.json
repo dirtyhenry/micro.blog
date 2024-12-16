@@ -1,11 +1,44 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Mick F",
+	"title": "Mick’s Micro Blog",
 	"icon": "https://micro.blog/dirtyhenry/avatar.jpg",
 	"home_page_url": "https://micro.mickf.net/",
 	"feed_url": "https://micro.mickf.net/feed.json",
 	"items": [
 		
+			{
+				"id": "http://dirtyhenry.micro.blog/2024/12/16/my-friend-who.html",
+				
+				"content_html": "<p>My friend <strong>Who Are You Lutra Lutra ??</strong> just released a new single, <a href=\"https://song.link/fr/i/1784718998\"><em>Dreaming Again</em></a>. Go listen to it. 🎵</p>\n",
+				"content_text": "My friend **Who Are You Lutra Lutra ??** just released a new single, [_Dreaming Again_](https://song.link/fr/i/1784718998). Go listen to it. 🎵\n",
+				"date_published": "2024-12-16T13:28:34+01:00",
+				"url": "https://micro.mickf.net/2024/12/16/my-friend-who.html"
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2024/12/13/i-got-a.html",
+				"title": "I got a new backpack",
+				"content_html": "<p>I got a new backpack to replace my Timbuk2 Q Laptop Backpack, which I had been using since 2012. It&rsquo;s showing its age: the inner net has a big hole, I stitched up a tear in the nylon top, and all the zippers are starting to deteriorate with aging threads.</p>\n<p>So, it was time for a new one. I opted for another Timbuk2 backpack, the Authority Laptop Backpack Deluxe, which <a href=\"https://www.nytimes.com/wirecutter/reviews/our-favorite-laptop-backpacks/#a-rugged-backpack-for-wrangling-tech-timbuk2-authority-laptop-backpack-deluxe\">Wirecutter recommends</a>.</p>\n<p>I feel a bit sad that it doesn&rsquo;t have the bottle opener that my 31-year-old self was so excited about, but I hope it lasts another 12 years or more.</p>\n<p>🌱</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I got a new backpack to replace my Timbuk2 Q Laptop Backpack, which I had been using since 2012. It's showing its age: the inner net has a big hole, I stitched up a tear in the nylon top, and all the zippers are starting to deteriorate with aging threads. \n\nSo, it was time for a new one. I opted for another Timbuk2 backpack, the Authority Laptop Backpack Deluxe, which [Wirecutter recommends](https://www.nytimes.com/wirecutter/reviews/our-favorite-laptop-backpacks/#a-rugged-backpack-for-wrangling-tech-timbuk2-authority-laptop-backpack-deluxe). \n\nI feel a bit sad that it doesn't have the bottle opener that my 31-year-old self was so excited about, but I hope it lasts another 12 years or more. \n\n🌱\n\n<img src=\"uploads/2024/8ebaf54fe0.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2024/663fbdf12e.jpg\" width=\"494\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-13T18:02:49+01:00",
+				"url": "https://micro.mickf.net/2024/12/13/i-got-a.html"
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2024/12/10/abracadabrest-cette-pope.html",
+				
+				"content_html": "<blockquote>\n<p>Abracadabrest</p>\n</blockquote>\n<p>Cette épopée brestoise en Ligue des Champions me procurent des émotions inédites. J&rsquo;essaie de les maîtriser en me rappelant <em>La Ballade des gens qui sont nés quelque part</em>, mais ça n&rsquo;est pas hyper efficace. Les larmes au yeux. ⚽️</p>\n",
+				"content_text": "> Abracadabrest\n\nCette épopée brestoise en Ligue des Champions me procurent des émotions inédites. J'essaie de les maîtriser en me rappelant _La Ballade des gens qui sont nés quelque part_, mais ça n'est pas hyper efficace. Les larmes au yeux. ⚽️\n",
+				"date_published": "2024-12-10T22:59:00+01:00",
+				"url": "https://micro.mickf.net/2024/12/10/abracadabrest-cette-pope.html",
+				"tags": ["Football"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2024/12/10/fini-de-lire.html",
+				
+				"content_html": "<p>Fini de lire: <a href=\"https://micro.blog/books/2330185499\">Le ciel ouvert</a>, de Nicolas Mathieu. Une collection des textes du <a href=\"https://www.instagram.com/nicolasmathieu/\">compte Instragram de l’auteur</a>. Pas fan de la 1e partie sur une relation adultère, mais quand on passe aux vignettes sur la relation aux enfants, aux parents, etc. ça fait mouche comme dans ses romans 📚</p>\n",
+				"content_text": "Fini de lire: [Le ciel ouvert](https://micro.blog/books/2330185499), de Nicolas Mathieu. Une collection des textes du [compte Instragram de l’auteur](https://www.instagram.com/nicolasmathieu/). Pas fan de la 1e partie sur une relation adultère, mais quand on passe aux vignettes sur la relation aux enfants, aux parents, etc. ça fait mouche comme dans ses romans 📚\n",
+				"date_published": "2024-12-10T11:52:56+01:00",
+				"url": "https://micro.mickf.net/2024/12/10/fini-de-lire.html"
+			},
 			{
 				"id": "http://dirtyhenry.micro.blog/2024/12/08/arthur-christmas.html",
 				"title": "Arthur Christmas, 2011 - ★★★",
