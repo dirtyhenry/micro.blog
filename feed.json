@@ -7,12 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://dirtyhenry.micro.blog/2025/03/05/i-am-not-a-frequent.html",
+				
+				"content_html": "<p>I am not a frequent user of Instagram. I visit occasionally because some of my favorite people and places only post there. I noticed that the platform has shifted from square previews to rectangle previews. If I were a heavy user, this change would have driven me crazy. I remember how some people used to be creative with their posts, creating really cool feeds filled with square previews. Instagram threw away all that effort.</p>\n<p>Instagram users: it&rsquo;s never too late to leave. <a href=\"https://pixelfed.fr/\">Pixelfed</a> — or Micro.blog — are very solid <a href=\"https://fediverse.info/\">fediverse</a> alternatives.</p>\n<p>💻</p>\n",
+				"content_text": "I am not a frequent user of Instagram. I visit occasionally because some of my favorite people and places only post there. I noticed that the platform has shifted from square previews to rectangle previews. If I were a heavy user, this change would have driven me crazy. I remember how some people used to be creative with their posts, creating really cool feeds filled with square previews. Instagram threw away all that effort.\n\nInstagram users: it's never too late to leave. [Pixelfed](https://pixelfed.fr/) — or Micro.blog — are very solid [fediverse](https://fediverse.info/) alternatives.\n\n💻\n",
+				"date_published": "2025-03-05T18:17:41+01:00",
+				"url": "https://micro.mickf.net/2025/03/05/i-am-not-a-frequent.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2025/03/05/la-une-de-lquipe-pour.html",
+				
+				"content_html": "<p>La une de L’Équipe pour PSG - Liverpool est très réussie. Bravo. ⚽️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "La une de L’Équipe pour PSG - Liverpool est très réussie. Bravo. ⚽️\n\n<img src=\"uploads/2025/13ad74aa55.jpg\" width=\"471\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-03-05T10:40:50+01:00",
+				"url": "https://micro.mickf.net/2025/03/05/la-une-de-lquipe-pour.html",
+				"tags": ["Football"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2025/03/03/ya-pire-comme-dcor-pour.html",
+				
+				"content_html": "<p>Y’a pire comme décor pour un petit running de fin de journée. 🧘</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Y’a pire comme décor pour un petit running de fin de journée. 🧘\n\n<img src=\"uploads/2025/5a511b6f7fff444ba0d74b35b270e9ab.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-03-03T20:50:35+01:00",
+				"url": "https://micro.mickf.net/2025/03/03/ya-pire-comme-dcor-pour.html"
+			},
+			{
 				"id": "http://dirtyhenry.micro.blog/2025/02/28/great-skit-by-troy-iwata.html",
 				
-				"content_html": "<p><a href=\"https://youtu.be/riGvU5WRRzg\">Great skit by Troy Iwata</a>, for the Daily Show:</p>\n<blockquote>\n<p>My name is Jean Lemón, I am Elon Musk&rsquo;s normal body movement choreographer.</p>\n</blockquote>\n",
-				"content_text": "[Great skit by Troy Iwata](https://youtu.be/riGvU5WRRzg), for the Daily Show:\n\n> My name is Jean Lemón, I am Elon Musk's normal body movement choreographer.\n",
+				"content_html": "<p><a href=\"https://youtu.be/riGvU5WRRzg\">Great skit by Troy Iwata</a>, for the Daily Show:</p>\n<blockquote>\n<p>My name is Jean Lemón, I am Elon Musk&rsquo;s normal body movement choreographer.</p>\n</blockquote>\n<p>🍿 × 🏛️</p>\n",
+				"content_text": "[Great skit by Troy Iwata](https://youtu.be/riGvU5WRRzg), for the Daily Show:\n\n> My name is Jean Lemón, I am Elon Musk's normal body movement choreographer.\n\n🍿 × 🏛️\n",
 				"date_published": "2025-02-28T16:03:32+01:00",
-				"url": "https://micro.mickf.net/2025/02/28/great-skit-by-troy-iwata.html"
+				"url": "https://micro.mickf.net/2025/02/28/great-skit-by-troy-iwata.html",
+				"tags": ["Politics","Pop Culture"]
 			},
 			{
 				"id": "http://dirtyhenry.micro.blog/2025/02/25/hilarious-vintage-bits-from-ed.html",
@@ -27,7 +54,7 @@
 				"id": "http://dirtyhenry.micro.blog/2025/02/23/de-bonnes-bires.html",
 				
 				"content_html": "<p>De bonnes bières. 🍻</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "De bonnes bières. 🍻 \n\n<img src=\"uploads/2025/a205f38359a54302bcb6bbb466087776.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"uploads/2025/5f41eb88a5b940808555d8ae99b294a9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "De bonnes bières. 🍻 \n\n<img src=\"https://cdn.uploads.micro.blog/98522/2025/a205f38359a54302bcb6bbb466087776.jpg\" width=\"600\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/98522/2025/5f41eb88a5b940808555d8ae99b294a9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-23T14:30:29+01:00",
 				"url": "https://micro.mickf.net/2025/02/23/de-bonnes-bires.html"
 			},
@@ -35,7 +62,7 @@
 				"id": "http://dirtyhenry.micro.blog/2025/02/22/asterix-the-secret-of-the.html",
 				"title": "Asterix: The Secret of the Magic Potion, 2018 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/457208-asterix-the-secret-of-the-magic-potion-0-600-0-900-crop.jpg\"/></p> <p>Astier remet le couvert pour une adaptation encore plus réussie que <a href=\"https://www.themoviedb.org/movie/170522-asterix-le-domaine-des-dieux\" rel=\"nofollow\"><em>Le Domaine des Dieux</em></a>. Il aborde subtilement le thème de la mort, de la transmission et même des choses plus poétiques comme “est-ce que tout ce qu’on fait doit être utile”. Du <a href=\"https://www.themoviedb.org/tv/11466-kaamelott\" rel=\"nofollow\"><em>Kaamelott</em></a> pour enfant, avec un vocabulaire qui sera un peu complexe pour les moins de 6 ans. 🍿</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/98522/2025/457208-asterix-the-secret-of-the-magic-potion-0-600-0-900-crop.jpg\"/></p> <p>Astier remet le couvert pour une adaptation encore plus réussie que <a href=\"https://www.themoviedb.org/movie/170522-asterix-le-domaine-des-dieux\" rel=\"nofollow\"><em>Le Domaine des Dieux</em></a>. Il aborde subtilement le thème de la mort, de la transmission et même des choses plus poétiques comme “est-ce que tout ce qu’on fait doit être utile”. Du <a href=\"https://www.themoviedb.org/tv/11466-kaamelott\" rel=\"nofollow\"><em>Kaamelott</em></a> pour enfant, avec un vocabulaire qui sera un peu complexe pour les moins de 6 ans. 🍿</p>\n",
 				"date_published": "2025-02-22T12:29:26+01:00",
 				"url": "https://micro.mickf.net/2025/02/22/asterix-the-secret-of-the.html",
 				"tags": ["Pop Culture"]
@@ -44,7 +71,7 @@
 				"id": "http://dirtyhenry.micro.blog/2025/02/22/piratatak-est-un-jeu-assez.html",
 				
 				"content_html": "<p><strong>Piratatak</strong> est un jeu assez faiblard. À éviter si on n&rsquo;est pas du genre à faire exprès de laisser gagner les enfants car une stratégie de base — remettre les cartes des bateaux adverses dans la pioche — rendra le jeu interminable et très ennuyant. Il faudrait sans doute modifier les règles pour rendre le truc intéressant. 🎮</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "**Piratatak** est un jeu assez faiblard. À éviter si on n'est pas du genre à faire exprès de laisser gagner les enfants car une stratégie de base — remettre les cartes des bateaux adverses dans la pioche — rendra le jeu interminable et très ennuyant. Il faudrait sans doute modifier les règles pour rendre le truc intéressant. 🎮\n\n<img src=\"uploads/2025/43e5a3ca7ec14865b49faea81846d90c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "**Piratatak** est un jeu assez faiblard. À éviter si on n'est pas du genre à faire exprès de laisser gagner les enfants car une stratégie de base — remettre les cartes des bateaux adverses dans la pioche — rendra le jeu interminable et très ennuyant. Il faudrait sans doute modifier les règles pour rendre le truc intéressant. 🎮\n\n<img src=\"https://cdn.uploads.micro.blog/98522/2025/43e5a3ca7ec14865b49faea81846d90c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-02-22T12:14:46+01:00",
 				"url": "https://micro.mickf.net/2025/02/22/piratatak-est-un-jeu-assez.html"
 			},
@@ -52,7 +79,7 @@
 				"id": "http://dirtyhenry.micro.blog/2025/02/13/frozen-ii.html",
 				"title": "Frozen II, 2019 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/258127-frozen-ii-0-600-0-900-crop.jpg\"/></p> <p>I know some people may not think it’s cool to say this, but I love the <em>Frozen</em> series. The characters, humor, atmosphere, visuals, and, of course, the music are all top-notch. I’m lucky to watch the original version with my kids because the few scenes I have seen from the French version really fall short. It’s a family favorite with a high rewatchability factor and we can’t wait for the 3rd episode. There, I said it. 🍿</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/98522/2025/258127-frozen-ii-0-600-0-900-crop.jpg\"/></p> <p>I know some people may not think it’s cool to say this, but I love the <em>Frozen</em> series. The characters, humor, atmosphere, visuals, and, of course, the music are all top-notch. I’m lucky to watch the original version with my kids because the few scenes I have seen from the French version really fall short. It’s a family favorite with a high rewatchability factor and we can’t wait for the 3rd episode. There, I said it. 🍿</p>\n",
 				"date_published": "2025-02-13T11:26:12+01:00",
 				"url": "https://micro.mickf.net/2025/02/13/frozen-ii.html",
 				"tags": ["Pop Culture"]
