@@ -7,10 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://dirtyhenry.micro.blog/2025/05/08/okipic-citron-concombre-menthe-trs.html",
+				
+				"content_html": "<p>Okipic citron concombre menthe. Très bon. 🧘</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Okipic citron concombre menthe. Très bon. 🧘\n\n<img src=\"uploads/2025/49d7bea24bae4f2f956d6721330b4511.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-05-08T18:09:13+02:00",
+				"url": "https://micro.mickf.net/2025/05/08/okipic-citron-concombre-menthe-trs.html"
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2025/05/05/meta-tente-de-se-positionner.html",
+				
+				"content_html": "<p>Aujourd&rsquo;hui, je vois des publicités pour Instagram où la plateforme prétend jouer <a href=\"https://instagram.com/accordparental\">un rôle dans la législation européenne sur l&rsquo;accord parental</a> pour les téléchargements sur l&rsquo;App Store. Les potards de <a href=\"https://fr.wiktionary.org/wiki/pompier_pyromane\">pompiers pyromanes</a> sont <a href=\"https://www.youtube.com/watch?v=uMSV4OteqBE&amp;t=78s\">à 11</a> chez Meta. 💻 × 🏛️</p>\n",
+				"content_text": "Aujourd'hui, je vois des publicités pour Instagram où la plateforme prétend jouer [un rôle dans la législation européenne sur l'accord parental](https://instagram.com/accordparental) pour les téléchargements sur l'App Store. Les potards de [pompiers pyromanes](https://fr.wiktionary.org/wiki/pompier_pyromane) sont [à 11](https://www.youtube.com/watch?v=uMSV4OteqBE&t=78s) chez Meta. 💻 × 🏛️\n",
+				"date_published": "2025-05-05T11:57:36+02:00",
+				"url": "https://micro.mickf.net/2025/05/05/meta-tente-de-se-positionner.html",
+				"tags": ["Tech","Politics"]
+			},
+			{
 				"id": "http://dirtyhenry.micro.blog/2025/05/03/my-tech-blog-is-now.html",
 				
-				"content_html": "<p>My tech blog is now located at <code>https://mickf.net/tech/</code>.</p>\n<p>For the last 15 years or so, I used the hostname <code>bootstragram.com</code>, but I grew tired of the name. It brings back stressful memories that make me clench my teeth. I prefer to consolidate all my online presence under <code>mickf.net</code> from now on. I have completed the most part of the redirection tasks and will finalize the details in the coming weeks.</p>\n<p>💻</p>\n",
-				"content_text": "My tech blog is now located at `https://mickf.net/tech/`. \n\nFor the last 15 years or so, I used the hostname `bootstragram.com`, but I grew tired of the name. It brings back stressful memories that make me clench my teeth. I prefer to consolidate all my online presence under `mickf.net` from now on. I have completed the most part of the redirection tasks and will finalize the details in the coming weeks. \n\n💻\n",
+				"content_html": "<p>My tech blog is now located at <a href=\"https://mickf.net/tech/\"><code>https://mickf.net/tech/</code></a>.</p>\n<p>For the last 15 years or so, I used the hostname <code>bootstragram.com</code>, but I grew tired of the name. It brings back stressful memories that make me clench my teeth. I prefer to consolidate all my online presence under <a href=\"https://mickf.net\"><code>mickf.net</code></a> from now on. I have completed the most part of the redirection tasks and will finalize the details in the coming weeks.</p>\n<p>💻</p>\n",
+				"content_text": "My tech blog is now located at [`https://mickf.net/tech/`](https://mickf.net/tech/). \n\nFor the last 15 years or so, I used the hostname `bootstragram.com`, but I grew tired of the name. It brings back stressful memories that make me clench my teeth. I prefer to consolidate all my online presence under [`mickf.net`](https://mickf.net) from now on. I have completed the most part of the redirection tasks and will finalize the details in the coming weeks. \n\n💻\n",
 				"date_published": "2025-05-03T01:16:55+02:00",
 				"url": "https://micro.mickf.net/2025/05/03/my-tech-blog-is-now.html",
 				"tags": ["Tech"]
