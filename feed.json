@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://dirtyhenry.micro.blog/2025/09/02/straight-line-was-a-lie.html",
+				
+				"content_html": "<p><a href=\"https://album.link/fr/i/1817137575\"><em>Straight Line Was a Lie</em>, The Beths</a> 🎵</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[_Straight Line Was a Lie_, The Beths](https://album.link/fr/i/1817137575) 🎵\n\n<img src=\"uploads/2025/150dc0cd35.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-09-02T12:53:53+02:00",
+				"url": "https://micro.mickf.net/2025/09/02/straight-line-was-a-lie.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2025/08/29/une-nouvelle-compile-est-arrive.html",
+				
+				"content_html": "<p>Une nouvelle compile est arrivée. Voici <a href=\"https://www.deadrooster.org/un-ete-2024-compilation-rock/\"><em>Un Été 2024</em></a>.</p>\n<p>Alain Delon est sur la pochette. On est plus sur le patrimoine que sur la découverte avec Oasis, The Beatles, Michel Delpech, Jack White, Cher…</p>\n<p>🎵</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Une nouvelle compile est arrivée. Voici [_Un Été 2024_](https://www.deadrooster.org/un-ete-2024-compilation-rock/).\n\nAlain Delon est sur la pochette. On est plus sur le patrimoine que sur la découverte avec Oasis, The Beatles, Michel Delpech, Jack White, Cher…\n\n🎵\n\n<img src=\"uploads/2025/f15d78264e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-08-29T18:11:21+02:00",
+				"url": "https://micro.mickf.net/2025/08/29/une-nouvelle-compile-est-arrive.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://dirtyhenry.micro.blog/2025/08/29/comme-tous-les-ans-ou.html",
 				
 				"content_html": "<p>Comme tous les ans ou presque, c&rsquo;est la saison pour rediffuser cette magnifique chanson, que j&rsquo;ai écrite il y a maintenant 12 ans.</p>\n<p><a href=\"https://jeanpierrecaca.bandcamp.com/track/mes-chers-mollets\"><em>Mes Chers Mollets</em></a></p>\n<p>🎵</p>\n<!-- raw HTML omitted -->\n",
@@ -45,7 +63,7 @@
 				"id": "http://dirtyhenry.micro.blog/2025/08/20/chanson-du-jour.html",
 				
 				"content_html": "<p><a href=\"https://www.deadrooster.org/shakin-all-over/\">Chanson du jour</a>. 🎵</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Chanson du jour](https://www.deadrooster.org/shakin-all-over/). 🎵\n\n<img src=\"uploads/2025/b69f22fa79f64b7bb436ba8e4b26e86b.jpg\">\n",
+				"content_text": "[Chanson du jour](https://www.deadrooster.org/shakin-all-over/). 🎵\n\n<img src=\"https://cdn.uploads.micro.blog/98522/2025/b69f22fa79f64b7bb436ba8e4b26e86b.jpg\">\n",
 				"date_published": "2025-08-20T15:26:43+02:00",
 				"url": "https://micro.mickf.net/2025/08/20/chanson-du-jour.html",
 				"tags": ["Music"]
