@@ -849,15 +849,6 @@
 				"tags": ["Music","Pop Culture"]
 			},
 			{
-				"id": "http://dirtyhenry.micro.blog/2025/06/22/again-letterboxd-is-amazing-their.html",
-				
-				"content_html": "<p><a href=\"https://micro.mickf.net/2025/01/08/here-is-my-year-in.html\">Again</a>, Letterboxd is amazing. Their commitment of web standards allows me to choose my next movie simply by visiting this URL: <code>https://letterboxd.com/dirtyhenry/watchlist/on/favorite-services/type/stream/by/shuffle/</code>.</p>\n<p>This link filters my watchlist to show only the movies available to streaming services I subscribe to, and randomizes the order. My strategy? I just pick the first movie that appears. It&rsquo;s that simple.</p>\n<p>I like losing the context of when or why I added a movie to my watchlist. I trust that my past self picked these films for a reason. This approach saves me time and helps me avoid indecision.</p>\n<p>🍿 × 💻</p>\n",
-				"content_text": "[Again](https://micro.mickf.net/2025/01/08/here-is-my-year-in.html), Letterboxd is amazing. Their commitment of web standards allows me to choose my next movie simply by visiting this URL: `https://letterboxd.com/dirtyhenry/watchlist/on/favorite-services/type/stream/by/shuffle/`.\n\nThis link filters my watchlist to show only the movies available to streaming services I subscribe to, and randomizes the order. My strategy? I just pick the first movie that appears. It's that simple.\n\nI like losing the context of when or why I added a movie to my watchlist. I trust that my past self picked these films for a reason. This approach saves me time and helps me avoid indecision.\n\n🍿 × 💻 \n",
-				"date_published": "2025-06-22T22:49:16+01:00",
-				"url": "https://micro.mickf.net/2025/06/22/again-letterboxd-is-amazing-their.html",
-				"tags": ["Tech","Pop Culture"]
-			},
-			{
 				"id": "http://dirtyhenry.micro.blog/2025/06/22/233854.html",
 				"title": "The French Connection, 1971 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -874,6 +865,15 @@
 				"date_published": "2025-06-22T22:38:54+01:00",
 				"url": "https://micro.mickf.net/2025/06/22/the-french-connection.html",
 				"tags": ["Pop Culture"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2025/06/22/again-letterboxd-is-amazing-their.html",
+				
+				"content_html": "<p><a href=\"https://micro.mickf.net/2025/01/08/here-is-my-year-in.html\">Again</a>, Letterboxd is amazing. Their commitment of web standards allows me to choose my next movie simply by visiting this URL: <a href=\"https://letterboxd.com/dirtyhenry/watchlist/on/favorite-services/type/stream/by/shuffle/\"><code>https://letterboxd.com/dirtyhenry/watchlist/on/favorite-services/type/stream/by/shuffle/</code></a>.</p>\n<p>This link filters my watchlist to show only the movies available to streaming services I subscribe to, and randomizes the order. My strategy? I just pick the first movie that appears. It&rsquo;s that simple.</p>\n<p>I like losing the context of when or why I added a movie to my watchlist. I trust that my past self picked these films for a reason. This approach saves me time and helps me avoid indecision.</p>\n<p>🍿 × 💻</p>\n",
+				"content_text": "[Again](https://micro.mickf.net/2025/01/08/here-is-my-year-in.html), Letterboxd is amazing. Their commitment of web standards allows me to choose my next movie simply by visiting this URL: [`https://letterboxd.com/dirtyhenry/watchlist/on/favorite-services/type/stream/by/shuffle/`](https://letterboxd.com/dirtyhenry/watchlist/on/favorite-services/type/stream/by/shuffle/).\n\nThis link filters my watchlist to show only the movies available to streaming services I subscribe to, and randomizes the order. My strategy? I just pick the first movie that appears. It's that simple.\n\nI like losing the context of when or why I added a movie to my watchlist. I trust that my past self picked these films for a reason. This approach saves me time and helps me avoid indecision.\n\n🍿 × 💻 \n",
+				"date_published": "2025-06-22T21:49:00+01:00",
+				"url": "https://micro.mickf.net/2025/06/22/again-letterboxd-is-amazing-their.html",
+				"tags": ["Tech","Pop Culture"]
 			},
 			{
 				"id": "http://dirtyhenry.micro.blog/2025/06/18/rip-bernard-lacombe-encore-une.html",
