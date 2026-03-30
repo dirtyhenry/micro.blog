@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://dirtyhenry.micro.blog/2026/03/30/til-pendant-la-rvolution-franaise.html",
+				
+				"content_html": "<p>TIL pendant la Révolution française, <a href=\"https://fr.wikipedia.org/wiki/Olympe_de_Gouges\">Olympe de Gouges</a> a écrit en 1791 la <a href=\"https://fr.wikipedia.org/wiki/D%C3%A9claration_des_droits_de_la_femme_et_de_la_citoyenne\">Déclaration des droits de la femme et de la citoyenne</a> pour réclamer l’égalité politique entre femmes et hommes. 🏛️</p>\n",
+				"content_text": "TIL pendant la Révolution française, [Olympe de Gouges](https://fr.wikipedia.org/wiki/Olympe_de_Gouges) a écrit en 1791 la [Déclaration des droits de la femme et de la citoyenne](https://fr.wikipedia.org/wiki/D%C3%A9claration_des_droits_de_la_femme_et_de_la_citoyenne) pour réclamer l’égalité politique entre femmes et hommes. 🏛️\n",
+				"date_published": "2026-03-30T16:34:22+01:00",
+				"url": "https://micro.mickf.net/2026/03/30/til-pendant-la-rvolution-franaise.html",
+				"tags": ["Politics"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2026/03/17/apple-maps-on-ios-cannot.html",
+				
+				"content_html": "<p>Apple Maps on both iOS and macOS cannot suggest multi-destination routes for any mode of transport other than driving. There may be valid reasons for this limitation, but I can&rsquo;t think of one. It&rsquo;s quite maddening. 💻 × 🌱</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Apple Maps on both iOS and macOS cannot suggest multi-destination routes for any mode of transport other than driving. There may be valid reasons for this limitation, but I can't think of one. It's quite maddening. 💻 × 🌱\n\n<img src=\"uploads/2026/img-8116.png\" width=\"277\" height=\"600\" alt=\"\"><img src=\"uploads/2026/img-8117.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-03-17T14:23:39+01:00",
+				"url": "https://micro.mickf.net/2026/03/17/apple-maps-on-ios-cannot.html",
+				"tags": ["Tech","Sustainability"]
+			},
+			{
 				"id": "http://dirtyhenry.micro.blog/2026/03/12/mr-poppers-penguins.html",
 				"title": "Mr. Popper’s Penguins, 2011 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/98522/2026/qkkyepjlg9yilhps89zoc3n2cd1-0-600-0-900-crop.jpg\"></p> <p>Not as bad as I feared it would be. I chose it on a strong impulse to introduce Jim Carrey to my kids, while dismissing <em>The Mask</em> as potentially too violent, crazy, or scary for them. The film is quite predictable, but it offers good ideas—the phrasing of Pippi Pepenopolis topping the list—and, of course, it will make you tear up at the end. And — I had totally forgotten this —, one of the writers is no other than Sean Anders, who has written and directed some of my <a href=\"https://letterboxd.com/film/daddys-home/\" rel=\"nofollow\">favorite</a> <a href=\"https://letterboxd.com/film/daddys-home-2/\" rel=\"nofollow\">comedies</a> <a href=\"https://letterboxd.com/film/spirited/\" rel=\"nofollow\">of all time</a>. 🍿</p>\n",
+				"content_text": "<p><img src=\"uploads/2026/qkkyepjlg9yilhps89zoc3n2cd1-0-600-0-900-crop.jpg\"></p> <p>Not as bad as I feared it would be. I chose it on a strong impulse to introduce Jim Carrey to my kids, while dismissing <em>The Mask</em> as potentially too violent, crazy, or scary for them. The film is quite predictable, but it offers good ideas—the phrasing of Pippi Pepenopolis topping the list—and, of course, it will make you tear up at the end. And — I had totally forgotten this —, one of the writers is no other than Sean Anders, who has written and directed some of my <a href=\"https://letterboxd.com/film/daddys-home/\" rel=\"nofollow\">favorite</a> <a href=\"https://letterboxd.com/film/daddys-home-2/\" rel=\"nofollow\">comedies</a> <a href=\"https://letterboxd.com/film/spirited/\" rel=\"nofollow\">of all time</a>. 🍿</p>\n",
 				"date_published": "2026-03-12T17:31:02+01:00",
 				"url": "https://micro.mickf.net/2026/03/12/mr-poppers-penguins.html",
 				"tags": ["Pop Culture"]
