@@ -7,12 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://dirtyhenry.micro.blog/2026/05/26/i-love-letterboxd-this-morning.html",
+				
+				"content_html": "<p>I love <a href=\"https://letterboxd.com/\">Letterboxd</a>. This morning, the website is down and this is what it shows. It makes me love it even more. 💻 × 🍿</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I love [Letterboxd](https://letterboxd.com/). This morning, the website is down and this is what it shows. It makes me love it even more. 💻 × 🍿\n\n<img src=\"uploads/2026/screenshot-2026-05-26-at-11.59.41.png\" width=\"600\" height=\"390\" alt=\"\">\n",
+				"date_published": "2026-05-26T12:03:27+02:00",
+				"url": "https://micro.mickf.net/2026/05/26/i-love-letterboxd-this-morning.html",
+				"tags": ["Tech","Pop Culture"]
+			},
+			{
 				"id": "http://dirtyhenry.micro.blog/2026/05/20/143902.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2026/organ-de-toit.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<img src=\"uploads/2026/organ-de-toit.png\"><img src=\"uploads/2026/image-2-mistral-gagnant.png\">\n",
 				"date_published": "2026-05-20T14:39:02+02:00",
-				"url": "https://micro.mickf.net/2026/05/20/143902.html"
+				"url": "https://micro.mickf.net/2026/05/20/143902.html",
+				"tags": ["Pop Culture"]
 			},
 			{
 				"id": "http://dirtyhenry.micro.blog/2026/05/19/the-neverending-search-for-the.html",
@@ -45,7 +55,7 @@
 				"id": "http://dirtyhenry.micro.blog/2026/04/15/un-hiver.html",
 				"title": "Un Hiver 2026",
 				"content_html": "<p>Voici <a href=\"https://www.deadrooster.org/un-hiver-2026-compilation-rock/\"><em>Un Hiver 2026</em></a>, la nouvelle compile faite à 4 mains avec mon ami Joe Gantdelaine. La dernière édition, Un Automne 2025, était déjà une compile de vieux, là c&rsquo;est pire. Des pépites oubliées de Johnny ou Stephan Eicher, et un bonbon nostalgique de Dorothée — sic — feront fuir les moins audacieux. Les autres profiteront de Mitski — l&rsquo;album <em>Nothing&rsquo;s About to Happen to Me</em> est une pépite —, Lime Garden — en concert à Rennes en mai —, ou de la redécouverte permanente des Bewitched Hands (puis par ricochet de <a href=\"https://www.deadrooster.org/black-bones-destiny/\">Black Bones</a>).</p>\n<p>Catherine O&rsquo;Hara est sur la pochette.</p>\n<p>Savourez la compile, la prochaine est dans 3 mois.</p>\n<p>🎵</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Voici [_Un Hiver 2026_](https://www.deadrooster.org/un-hiver-2026-compilation-rock/), la nouvelle compile faite à 4 mains avec mon ami Joe Gantdelaine. La dernière édition, Un Automne 2025, était déjà une compile de vieux, là c'est pire. Des pépites oubliées de Johnny ou Stephan Eicher, et un bonbon nostalgique de Dorothée — sic — feront fuir les moins audacieux. Les autres profiteront de Mitski — l'album _Nothing's About to Happen to Me_ est une pépite —, Lime Garden — en concert à Rennes en mai —, ou de la redécouverte permanente des Bewitched Hands (puis par ricochet de [Black Bones](https://www.deadrooster.org/black-bones-destiny/)).\n\nCatherine O'Hara est sur la pochette.\n\nSavourez la compile, la prochaine est dans 3 mois.\n\n🎵\n\n<img src=\"uploads/2026/ae64ea71dd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Voici [_Un Hiver 2026_](https://www.deadrooster.org/un-hiver-2026-compilation-rock/), la nouvelle compile faite à 4 mains avec mon ami Joe Gantdelaine. La dernière édition, Un Automne 2025, était déjà une compile de vieux, là c'est pire. Des pépites oubliées de Johnny ou Stephan Eicher, et un bonbon nostalgique de Dorothée — sic — feront fuir les moins audacieux. Les autres profiteront de Mitski — l'album _Nothing's About to Happen to Me_ est une pépite —, Lime Garden — en concert à Rennes en mai —, ou de la redécouverte permanente des Bewitched Hands (puis par ricochet de [Black Bones](https://www.deadrooster.org/black-bones-destiny/)).\n\nCatherine O'Hara est sur la pochette.\n\nSavourez la compile, la prochaine est dans 3 mois.\n\n🎵\n\n<img src=\"https://cdn.uploads.micro.blog/98522/2026/ae64ea71dd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-04-15T13:16:15+02:00",
 				"url": "https://micro.mickf.net/2026/04/15/un-hiver.html",
 				"tags": ["Music"]
@@ -54,7 +64,7 @@
 				"id": "http://dirtyhenry.micro.blog/2026/04/15/austin-powers-in-goldmember.html",
 				"title": "Austin Powers in Goldmember, 2002 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/51334-austin-powers-in-goldmember-0-600-0-900-crop.jpg\"/></p> <p>The opening self-parody works. Mini-Me becoming Mini-Austin is hilarious. Michael Caine is brilliant. The mole scenes with Fred Savage are memorable. 20-year-old Beyoncé is already a star. 🍿</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/98522/2026/51334-austin-powers-in-goldmember-0-600-0-900-crop.jpg\"/></p> <p>The opening self-parody works. Mini-Me becoming Mini-Austin is hilarious. Michael Caine is brilliant. The mole scenes with Fred Savage are memorable. 20-year-old Beyoncé is already a star. 🍿</p>\n",
 				"date_published": "2026-04-15T12:42:51+02:00",
 				"url": "https://micro.mickf.net/2026/04/15/austin-powers-in-goldmember.html",
 				"tags": ["Pop Culture"]
