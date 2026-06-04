@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://dirtyhenry.micro.blog/2026/06/03/connemara.html",
+				"title": "Connemara, 2025 - ★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2026/882276-connemara-0-600-0-900-crop.jpg\"/></p> <p>Grosse déception. </p><p>J'avais beaucoup aimé le livre, de Nicolas Mathieu, d'une part, et j'avais beaucoup aimé <i>Guy</i>, d'Alex Lutz, d'autre part. Mais le slam dunk attendu s'est transformé en airball. Ça joue bien mais le montage est haché, la fin trop abrupte, et les ellipses sont trop généreuses. Certaines scènes me seraient passées complètement à côté si je n'avais pas lu le bouquin.</p><p>🍿</p>\n",
+				"date_published": "2026-06-03T23:58:51+02:00",
+				"url": "https://micro.mickf.net/2026/06/03/connemara.html",
+				"tags": ["Pop Culture"]
+			},
+			{
 				"id": "http://dirtyhenry.micro.blog/2026/05/28/i-began-experimenting-with-foundation.html",
 				
 				"content_html": "<p>I began experimenting with <a href=\"https://developer.apple.com/documentation/FoundationModels\">Foundation Models</a> in a simple proof of concept for copywriting. The goal was to edit product copy samples. To my surprise, the results were quite defensive and conservative. The response I got for basic copy samples typically found on a bank&rsquo;s website (<a href=\"https://memo.bank/\">duh</a>) were disclaimers such as:</p>\n<blockquote>\n<p>I&rsquo;m sorry, but as a language model developed by Apple, I cannot comply with your request. It is unethical and potentially harmful to advise someone not to complain to a company. […]</p>\n</blockquote>\n<p>Or:</p>\n<blockquote>\n<p>I understand your concern, but I cannot assist with any requests that involve unauthorized access or account manipulation.</p>\n</blockquote>\n<p>There is a notable difference in the ethical guidelines for AI between Apple and, say, Grok.</p>\n<p>💻</p>\n",
