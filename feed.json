@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://dirtyhenry.micro.blog/2026/06/30/je-viens-dcrire-un-petit.html",
+				
+				"content_html": "<p>Je viens d&rsquo;écrire <a href=\"https://www.deadrooster.org/the-strokes-going-shopping/\">un petit billet sur les Strokes</a> sur Dead Rooster.</p>\n<p>Je ne sais toujours pas quel service utiliser pour créer des liens pour des noms de chansons ou d&rsquo;albums. Odesli a l&rsquo;air d&rsquo;avoir été abandonné. <a href=\"https://songport.link/\">SongPort</a> a l&rsquo;air prometteur mais (1) il est vibe-codé, (2) ne supporte pas Qobuz, (3) le formulaire de feature request ne fonctionne pas. 🙃</p>\n<p>🎵 × 💻</p>\n",
+				"content_text": "Je viens d'écrire [un petit billet sur les Strokes](https://www.deadrooster.org/the-strokes-going-shopping/) sur Dead Rooster. \n\nJe ne sais toujours pas quel service utiliser pour créer des liens pour des noms de chansons ou d'albums. Odesli a l'air d'avoir été abandonné. [SongPort](https://songport.link/) a l'air prometteur mais (1) il est vibe-codé, (2) ne supporte pas Qobuz, (3) le formulaire de feature request ne fonctionne pas. 🙃\n\n🎵 × 💻\n",
+				"date_published": "2026-06-30T15:41:25+02:00",
+				"url": "https://micro.mickf.net/2026/06/30/je-viens-dcrire-un-petit.html",
+				"tags": ["Music","Tech"]
+			},
+			{
 				"id": "http://dirtyhenry.micro.blog/2026/06/26/til-cest-pas-sorcier-lmission.html",
 				
 				"content_html": "<p>TIL <em>C&rsquo;est pas sorcier</em>, l&rsquo;émission télé avec laquelle j&rsquo;ai grandi a un successeur : <em>C&rsquo;est toujours pas sorcier</em>. Les épisodes sont disponibles gratuitement sur <a href=\"https://www.france.tv/france-4/c-est-toujours-pas-sorcier/\">le site</a> et les apps de France TV. Très chouette. 🤓</p>\n",
@@ -96,7 +105,7 @@
 				"id": "http://dirtyhenry.micro.blog/2026/06/03/connemara.html",
 				"title": "Connemara, 2025 - ★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/882276-connemara-0-600-0-900-crop.jpg\"></p> <p>Grosse déception. </p><p>J'avais beaucoup aimé le livre, de Nicolas Mathieu, d'une part, et j'avais beaucoup aimé <a href=\"https://letterboxd.com/dirtyhenry/film/guy-2018/reviews/\"><i>Guy</i></a>, d'Alex Lutz, d'autre part. Mais le slam dunk attendu s'est transformé en airball. Ça joue bien mais le montage est haché, la fin trop abrupte, et les ellipses sont trop généreuses. Certaines scènes me seraient passées complètement à côté si je n'avais pas lu le bouquin.</p><p>🍿</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/98522/2026/882276-connemara-0-600-0-900-crop.jpg\"></p> <p>Grosse déception. </p><p>J'avais beaucoup aimé le livre, de Nicolas Mathieu, d'une part, et j'avais beaucoup aimé <a href=\"https://letterboxd.com/dirtyhenry/film/guy-2018/reviews/\"><i>Guy</i></a>, d'Alex Lutz, d'autre part. Mais le slam dunk attendu s'est transformé en airball. Ça joue bien mais le montage est haché, la fin trop abrupte, et les ellipses sont trop généreuses. Certaines scènes me seraient passées complètement à côté si je n'avais pas lu le bouquin.</p><p>🍿</p>\n",
 				"date_published": "2026-06-03T23:58:51+02:00",
 				"url": "https://micro.mickf.net/2026/06/03/connemara.html",
 				"tags": ["Pop Culture"]
@@ -123,7 +132,7 @@
 				"id": "http://dirtyhenry.micro.blog/2026/05/20/143902.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "<img src=\"uploads/2026/organ-de-toit.png\"><img src=\"uploads/2026/image-2-mistral-gagnant.png\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/98522/2026/organ-de-toit.png\"><img src=\"https://cdn.uploads.micro.blog/98522/2026/image-2-mistral-gagnant.png\">\n",
 				"date_published": "2026-05-20T14:39:02+02:00",
 				"url": "https://micro.mickf.net/2026/05/20/143902.html",
 				"tags": ["Pop Culture"]
