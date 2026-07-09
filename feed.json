@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://dirtyhenry.micro.blog/2026/07/09/til-la-notion-de-bon.html",
+				
+				"content_html": "<p>TIL la notion de <em>bon père de famille</em> du droit civil a été remplacé par la notion de <em>personne raisonnable</em>.</p>\n<blockquote>\n<p>La notion de <em>« bon père de famille »</em> reste dans le Code civil jusqu’à la loi de 2014 relative à l’égalité réelle hommes-femmes. En janvier 2014, l&rsquo;Assemblée nationale française adopte un amendement supprimant cette expression du droit français pour la remplacer par les termes <em>« personne raisonnable »</em> ou « raisonnablement » (&hellip;) Jusqu’alors, une femme pouvait devoir s’engager à se comporter « en bon père de famille » lors de la signature d’un bail locatif.\n— <a href=\"https://fr.wikipedia.org/wiki/Bon_p%C3%A8re_de_famille\">Wikipedia</a></p>\n</blockquote>\n<p>J&rsquo;allais m&rsquo;en servir. Je me suis dit que quand même, ça faisait daté. J&rsquo;ai réalisé que j&rsquo;avais 12 ans de retard sur la loi. Mieux vaut tard que jamais.</p>\n<p>🏛️</p>\n",
+				"content_text": "TIL la notion de _bon père de famille_ du droit civil a été remplacé par la notion de _personne raisonnable_.\n\n> La notion de *« bon père de famille »* reste dans le Code civil jusqu’à la loi de 2014 relative à l’égalité réelle hommes-femmes. En janvier 2014, l'Assemblée nationale française adopte un amendement supprimant cette expression du droit français pour la remplacer par les termes *« personne raisonnable »* ou « raisonnablement » (...) Jusqu’alors, une femme pouvait devoir s’engager à se comporter « en bon père de famille » lors de la signature d’un bail locatif.\n> — [Wikipedia](https://fr.wikipedia.org/wiki/Bon_p%C3%A8re_de_famille)\n\nJ'allais m'en servir. Je me suis dit que quand même, ça faisait daté. J'ai réalisé que j'avais 12 ans de retard sur la loi. Mieux vaut tard que jamais.\n\n🏛️\n",
+				"date_published": "2026-07-09T11:46:33+02:00",
+				"url": "https://micro.mickf.net/2026/07/09/til-la-notion-de-bon.html",
+				"tags": ["Politics"]
+			},
+			{
 				"id": "http://dirtyhenry.micro.blog/2026/06/30/je-viens-dcrire-un-petit.html",
 				
 				"content_html": "<p>Je viens d&rsquo;écrire <a href=\"https://www.deadrooster.org/the-strokes-going-shopping/\">un petit billet sur les Strokes</a> sur Dead Rooster.</p>\n<p>Je ne sais toujours pas quel service utiliser pour créer des liens pour des noms de chansons ou d&rsquo;albums. Odesli a l&rsquo;air d&rsquo;avoir été abandonné. <a href=\"https://songport.link/\">SongPort</a> a l&rsquo;air prometteur mais (1) il est vibe-codé, (2) ne supporte pas Qobuz, (3) le formulaire de feature request ne fonctionne pas. 🙃</p>\n<p>🎵 × 💻</p>\n",
@@ -44,7 +53,7 @@
 				"id": "http://dirtyhenry.micro.blog/2026/06/18/harry-potter-and-the-goblet.html",
 				"title": "Harry Potter and the Goblet of Fire, 2005 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2026/51450-harry-potter-and-the-goblet-of-fire-0-600-0-900-crop.jpg\"/></p> <p>Like the previous three movies, I think it can be confusing if you haven't read the books first. Nevertheless, it was solid.</p><p>Parenting note: As usual, this installment is darker than the last one. Common Sense Media rated it for ages 12 and up. However, the family vote—including a 7-year-old and a 9-year-old—was unanimously \"yes, let's watch it.\" The kids slept well afterward and had no nightmares.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/98522/2026/51450-harry-potter-and-the-goblet-of-fire-0-600-0-900-crop.jpg\"/></p> <p>Like the previous three movies, I think it can be confusing if you haven't read the books first. Nevertheless, it was solid.</p><p>Parenting note: As usual, this installment is darker than the last one. Common Sense Media rated it for ages 12 and up. However, the family vote—including a 7-year-old and a 9-year-old—was unanimously \"yes, let's watch it.\" The kids slept well afterward and had no nightmares.</p>\n",
 				"date_published": "2026-06-18T22:24:22+02:00",
 				"url": "https://micro.mickf.net/2026/06/18/harry-potter-and-the-goblet.html"
 			},
