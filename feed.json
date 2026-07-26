@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://dirtyhenry.micro.blog/2026/07/27/un-printemps.html",
+				"title": "Un Printemps 2026",
+				"content_html": "<p>Voici <a href=\"https://www.deadrooster.org/un-printemps-2026-compilation-rock/\"><em>Un Printemps 2026</em></a>, la nouvelle compile faite à 4 mains avec mon ami Joe Gantdelaine. On y retrouver le groupe français The Big Idea, épatant, quelques titres de fins d&rsquo;épisode de <em>Mad Men</em> (Cass Elliot, Paul Mauriat), et comme souvent un hors piste avec <em>Les Penn Sardines</em>.</p>\n<p>Marjane Satrapi est sur la pochette.</p>\n<p>La prochaine est dans 3 mois.</p>\n<p>🎵</p>\n",
+				"content_text": "Voici [_Un Printemps 2026_](https://www.deadrooster.org/un-printemps-2026-compilation-rock/), la nouvelle compile faite à 4 mains avec mon ami Joe Gantdelaine. On y retrouver le groupe français The Big Idea, épatant, quelques titres de fins d'épisode de _Mad Men_ (Cass Elliot, Paul Mauriat), et comme souvent un hors piste avec _Les Penn Sardines_.\n  \nMarjane Satrapi est sur la pochette.\n  \nLa prochaine est dans 3 mois.\n  \n🎵\n",
+				"date_published": "2026-07-27T00:14:01+02:00",
+				"url": "https://micro.mickf.net/2026/07/27/un-printemps.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2026/07/25/finished-watching-malcolm-in-the.html",
+				
+				"content_html": "<p>Finished watching <em>Malcolm in the Middle</em>. A little less than two years <a href=\"https://micro.mickf.net/2024/09/24/i-am-a.html\">after I started</a>, I am done watching all 7 seasons. It was a lot of fun. 🍿</p>\n",
+				"content_text": "Finished watching _Malcolm in the Middle_. A little less than two years [after I started](https://micro.mickf.net/2024/09/24/i-am-a.html), I am done watching all 7 seasons. It was a lot of fun. 🍿\n",
+				"date_published": "2026-07-25T01:24:05+02:00",
+				"url": "https://micro.mickf.net/2026/07/25/finished-watching-malcolm-in-the.html",
+				"tags": ["Pop Culture"]
+			},
+			{
 				"id": "http://dirtyhenry.micro.blog/2026/07/24/nouvelle-chanson-du-jour-sur.html",
 				
 				"content_html": "<p><a href=\"https://www.deadrooster.org/diary-keep-comin-up/\">Nouvelle &ldquo;Chanson du jour&rdquo; sur Dead Rooster avec <em>Keep Comin’ Up</em>, de Diary</a>. Super chanson sous grosse influence Madchester.</p>\n<p>J&rsquo;ai remis le design du site à jour avec une mise à jour de son <a href=\"https://github.com/dirtyhenry/deadrooster-spip-squelettes\">design retro</a>, du temps où j&rsquo;utilisais SPIP comme CMS. C&rsquo;est marrant de se remémorer ce passé quasi-préhistorique du web. Le repo Git date d&rsquo;il y a 13 ans déjà, et c&rsquo;était déjà une migration de SVN. 👴</p>\n<p>🎵 × 💻</p>\n",
@@ -212,8 +230,8 @@
 			{
 				"id": "http://dirtyhenry.micro.blog/2026/04/15/austin-powers-in-goldmember.html",
 				"title": "Austin Powers in Goldmember, 2002 - ★★★",
-				"content_html": "<p><img src=\"uploads/2026/51334-austin-powers-in-goldmember-0-600-0-900-crop.jpg\"/></p> <p>The opening self-parody works. Mini-Me becoming Mini-Austin is hilarious. Michael Caine is brilliant. The mole scenes with Fred Savage are memorable. 20-year-old Beyoncé is already a star. 🍿</p>\n",
-				"content_text": "<p><img src=\"uploads/2026/51334-austin-powers-in-goldmember-0-600-0-900-crop.jpg\"/></p> <p>The opening self-parody works. Mini-Me becoming Mini-Austin is hilarious. Michael Caine is brilliant. The mole scenes with Fred Savage are memorable. 20-year-old Beyoncé is already a star. 🍿</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/98522/2026/51334-austin-powers-in-goldmember-0-600-0-900-crop.jpg\"/></p> <p>The opening self-parody works. Mini-Me becoming Mini-Austin is hilarious. Michael Caine is brilliant. The mole scenes with Fred Savage are memorable. 20-year-old Beyoncé is already a star. 🍿</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/98522/2026/51334-austin-powers-in-goldmember-0-600-0-900-crop.jpg\"/></p> <p>The opening self-parody works. Mini-Me becoming Mini-Austin is hilarious. Michael Caine is brilliant. The mole scenes with Fred Savage are memorable. 20-year-old Beyoncé is already a star. 🍿</p>\n",
 				"date_published": "2026-04-15T12:42:51+02:00",
 				"url": "https://micro.mickf.net/2026/04/15/austin-powers-in-goldmember.html",
 				"tags": ["Pop Culture"]
