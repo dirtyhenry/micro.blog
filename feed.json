@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://dirtyhenry.micro.blog/2026/09/01/til-en-velvet-une-nouvelle.html",
+				
+				"content_html": "<p>TIL en 2028, <a href=\"https://www.velvet.fr\">Velvet</a>, une nouvelle compagnie ferroviaire, proposera des Paris - Rennes. 🚂✖️🌱</p>\n",
+				"content_text": "TIL en 2028, [Velvet](https://www.velvet.fr), une nouvelle compagnie ferroviaire, proposera des Paris - Rennes. 🚂✖️🌱\n",
+				"date_published": "2026-09-01T19:32:23+02:00",
+				"url": "https://micro.mickf.net/2026/09/01/til-en-velvet-une-nouvelle.html",
+				"tags": ["Sustainability"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2026/08/29/jai-profit-dun-post-hommage.html",
+				
+				"content_html": "<p>J&rsquo;ai profité d&rsquo;un <a href=\"https://www.deadrooster.org/rip-dolly-parton/\">post hommage à Dolly Parton</a> (quelle femme !) pour glisser dans Dead Rooster un petit oeuf de Pâques. Amusez-vous à le trouver en écoutant <a href=\"https://genius.com/3430069\">The Moldy Peaches</a>. 🥚</p>\n<p>💻 × 🍿</p>\n",
+				"content_text": "J'ai profité d'un [post hommage à Dolly Parton](https://www.deadrooster.org/rip-dolly-parton/) (quelle femme !) pour glisser dans Dead Rooster un petit oeuf de Pâques. Amusez-vous à le trouver en écoutant [The Moldy Peaches](https://genius.com/3430069). 🥚\n\n💻 × 🍿\n",
+				"date_published": "2026-08-29T17:55:26+02:00",
+				"url": "https://micro.mickf.net/2026/08/29/jai-profit-dun-post-hommage.html",
+				"tags": ["Tech","Pop Culture"]
+			},
+			{
 				"id": "http://dirtyhenry.micro.blog/2026/08/29/a-couple-of-months-in.html",
 				
 				"content_html": "<p>A couple of months in, here are some notes about my switch from Spotify to Qobuz.</p>\n<ul>\n<li>The catalog is solid. The only song I couldn&rsquo;t find so far is <em>Bébé Requin</em> by France Gall, but that&rsquo;s not a deal breaker.</li>\n<li>The search function is lacking. Sometimes you need to narrow it down by albums or tracks to find what you want. It can be frustrating, but you&rsquo;ll eventually find what you&rsquo;re looking for.</li>\n<li>Users cannot upload covers for their playlists, though Qobuz can. I&rsquo;m not sure why that is—perhaps they worry users might use images without proper rights.</li>\n<li>Qobuz does not provide API keys to individuals. Additionally, the Spotify API stops working for non-paying subscribers, which means the scripts I had for exporting my data from Spotify no longer function, and I cannot replicate them on Qobuz. Joining Qobuz gives you basic access to Soundiiz features, but you need to pay for a Soundiiz subscription to export your data. This is relatively inexpensive for heavy users but not very affordable for basic exports.</li>\n</ul>\n<p>Overall, it’s a good experience. Minor frustrations, no regrets.</p>\n<p>💻 × 🏛️</p>\n",
