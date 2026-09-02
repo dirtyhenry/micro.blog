@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://dirtyhenry.micro.blog/2026/09/02/watched-zootopia-really-good-it.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/1084242\">Zootopia 2</a></p>\n<p>Really good. It may be a bit too similar to the first one, as it addresses the same themes and employs the same narrative techniques. However, it is beautiful, features many good jokes, and its fast pace caused me to miss some hidden details. This might make it rewatchable. I recommend it.</p>\n<p>🍿</p>\n",
+				"content_text": "Watched: [Zootopia 2](https://www.themoviedb.org/movie/1084242) \n\nReally good. It may be a bit too similar to the first one, as it addresses the same themes and employs the same narrative techniques. However, it is beautiful, features many good jokes, and its fast pace caused me to miss some hidden details. This might make it rewatchable. I recommend it.\n\n🍿\n",
+				"date_published": "2026-09-02T22:29:49+02:00",
+				"url": "https://micro.mickf.net/2026/09/02/watched-zootopia-really-good-it.html",
+				"tags": ["Pop Culture"]
+			},
+			{
 				"id": "http://dirtyhenry.micro.blog/2026/09/01/til-en-velvet-une-nouvelle.html",
 				
-				"content_html": "<p>TIL en 2028, <a href=\"https://www.velvet.fr\">Velvet</a>, une nouvelle compagnie ferroviaire, proposera des Paris - Rennes. 🚂✖️🌱</p>\n",
-				"content_text": "TIL en 2028, [Velvet](https://www.velvet.fr), une nouvelle compagnie ferroviaire, proposera des Paris - Rennes. 🚂✖️🌱\n",
+				"content_html": "<p>TIL En 2028, <a href=\"https://www.velvet.fr\">Velvet</a>, une nouvelle compagnie ferroviaire, proposera des Paris - Rennes.</p>\n<p>🚂 × 🌱</p>\n",
+				"content_text": "TIL En 2028, [Velvet](https://www.velvet.fr), une nouvelle compagnie ferroviaire, proposera des Paris - Rennes.\n\n🚂 × 🌱\n",
 				"date_published": "2026-09-01T19:32:23+02:00",
 				"url": "https://micro.mickf.net/2026/09/01/til-en-velvet-une-nouvelle.html",
 				"tags": ["Sustainability"]
