@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://dirtyhenry.micro.blog/2026/09/04/til-about-alternative-android-os.html",
+				
+				"content_html": "<p>TIL about alternative Android OS (<a href=\"https://lineageos.org/\">LineageOS</a>, <a href=\"https://grapheneos.org/\">GrapheneOS</a>, …) and that the <a href=\"https://keepandroidopen.org/\">openness of Android was at risk</a>. </p>\n<p>💻</p>\n",
+				"content_text": "TIL about alternative Android OS ([LineageOS](https://lineageos.org/), [GrapheneOS](https://grapheneos.org/), …) and that the [openness of Android was at risk](https://keepandroidopen.org/). \n\n💻\n",
+				"date_published": "2026-09-04T16:11:36+02:00",
+				"url": "https://micro.mickf.net/2026/09/04/til-about-alternative-android-os.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2026/09/03/til-belugasocial-seems-to-be.html",
+				
+				"content_html": "<p>TIL <a href=\"https://www.producthunt.com/products/beluga-2\"><code>beluga.social</code></a> seems to be offline. It seemed promising though. Too bad. 🪦</p>\n<p>💻</p>\n",
+				"content_text": "TIL [`beluga.social`](https://www.producthunt.com/products/beluga-2) seems to be offline. It seemed promising though. Too bad. 🪦\n\n💻\n",
+				"date_published": "2026-09-03T10:28:22+02:00",
+				"url": "https://micro.mickf.net/2026/09/03/til-belugasocial-seems-to-be.html",
+				"tags": ["Tech"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2026/09/02/watched-a-real-pain-i.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://letterboxd.com/film/a-real-pain/\">A Real Pain</a></p>\n<p>I really enjoyed it. At one point, I was worried the movie might take a dark turn, but it didn&rsquo;t. Overall, it was moving but lovely. It captured feelings I can relate to. Kieran Culkin was fantastic. I learned after watching the movie that he won an Academy Award for Best Supporting Actor. No kidding! I also didn’t know Jesse Eisenberg directed films; he seems quite good at it.</p>\n<p>🍿</p>\n",
+				"content_text": "Watched: [A Real Pain](https://letterboxd.com/film/a-real-pain/) \n\nI really enjoyed it. At one point, I was worried the movie might take a dark turn, but it didn't. Overall, it was moving but lovely. It captured feelings I can relate to. Kieran Culkin was fantastic. I learned after watching the movie that he won an Academy Award for Best Supporting Actor. No kidding! I also didn’t know Jesse Eisenberg directed films; he seems quite good at it.\n\n🍿\n",
+				"date_published": "2026-09-02T22:41:20+02:00",
+				"url": "https://micro.mickf.net/2026/09/02/watched-a-real-pain-i.html",
+				"tags": ["Pop Culture"]
+			},
+			{
+				"id": "http://dirtyhenry.micro.blog/2026/09/02/watched-malcolm-in-the-middle.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/tv/279471-malcolm-in-the-middle-life-s-still-unfair\">Malcolm in the Middle: Life&rsquo;s Still Unfair</a></p>\n<p>I wasn&rsquo;t much into it until the last episode, that got me. It was both hilarious (Craig), and touching (with kudos to Vaughan Murrae&rsquo;s acting). A timely ending to <a href=\"https://micro.mickf.net/2026/07/25/finished-watching-malcolm-in-the.html\">my Malcolm late discovery</a>.</p>\n<p>🍿</p>\n",
+				"content_text": "Watched: [Malcolm in the Middle: Life's Still Unfair](https://www.themoviedb.org/tv/279471-malcolm-in-the-middle-life-s-still-unfair) \n\nI wasn't much into it until the last episode, that got me. It was both hilarious (Craig), and touching (with kudos to Vaughan Murrae's acting). A timely ending to [my Malcolm late discovery](https://micro.mickf.net/2026/07/25/finished-watching-malcolm-in-the.html).\n\n🍿\n",
+				"date_published": "2026-09-02T22:33:59+02:00",
+				"url": "https://micro.mickf.net/2026/09/02/watched-malcolm-in-the-middle.html",
+				"tags": ["Pop Culture"]
+			},
+			{
 				"id": "http://dirtyhenry.micro.blog/2026/09/02/watched-zootopia-really-good-it.html",
 				
 				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/1084242\">Zootopia 2</a></p>\n<p>Really good. It may be a bit too similar to the first one, as it addresses the same themes and employs the same narrative techniques. However, it is beautiful, features many good jokes, and its fast pace caused me to miss some hidden details. This might make it rewatchable. I recommend it.</p>\n<p>🍿</p>\n",
